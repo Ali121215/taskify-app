@@ -1,11 +1,1 @@
-# Игнорировать node_modules
-node_modules/
-
-# Файлы окружения
-.env
-.env.local
-
-# Логи и системные файлы
-*.log
-.DS_Store
-dist/
+*
